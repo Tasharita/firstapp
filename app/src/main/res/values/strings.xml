@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasha\'s Application</string>
+    <string name="title_activity_layoutactivity">Layoutactivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash">Tashas Application</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>
